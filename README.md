@@ -1,6 +1,6 @@
 # A-Complete-LoRaWAN-Image-Transfer
 A project that I made on myself for my thesis 1, using library to transfer image from one node to gateway.\
-Thanks so much to [jeroennijhof](https://github.com/jeroennijhof/LoRaWAN) for providing a free LoRaWAN library for Python.
+
 # What is LoRaWAN
 Well LoRAWAN is a standard for device using LoRa to communicate, if you want to deep dive, go to Google or Youtube will have a clear explanation about this.
 # What kind of hardwares do you need ?
